@@ -14,9 +14,5 @@ public class Main {
         for (Student student : studentArrayList) {
             System.out.println("Nome: " + student.getName() + ", Età: " + student.getAge());
         }
-
-
     }
-
-
 }
